@@ -5,7 +5,9 @@
 <!-- ABOUT THE PROJECT -->
 <h2 tabindex="-1" dir="auto"><a id="user-content--about-the-project" class="anchor" aria-hidden="true" tabindex="-1" href="#about-the-project">🔭 About The Project 🔭</h2>
 
-Plataforma completa para gestão de vendas. Inclui a API com as funcionalidades de cadastro de venda, cadastro de vendedor, listar vendas e listar vendedores, além de uma aplicação web para manipulação dos mesmos.
+Plataforma completa para gestão de vendas. 
+
+Inclui a API com as funcionalidades de cadastro de venda, cadastro de vendedor, listar vendas e listar vendedores, além de uma aplicação web para manipulação dos mesmos.
 
 <h2 tabindex="-1" dir="auto"><a id="user-content--built-with" class="anchor" aria-hidden="true" tabindex="-1" href="#-built-with">🔧 Built With 🔧</h2>
 
