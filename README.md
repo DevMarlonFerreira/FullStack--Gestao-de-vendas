@@ -7,6 +7,8 @@
 
 Plataforma completa para gestão de vendas. 
 
+Desenvolvido utilizando boas praticas de desenvolvimento front-end com Javascript puro.
+
 Inclui a API com as funcionalidades de cadastro de venda, cadastro de vendedor, listar vendas e listar vendedores, além de uma aplicação web para manipulação dos mesmos.
 
 <h2 tabindex="-1" dir="auto"><a id="user-content--built-with" class="anchor" aria-hidden="true" tabindex="-1" href="#-built-with">🔧 Built With 🔧</h2>
