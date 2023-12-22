@@ -5,7 +5,7 @@
 <!-- ABOUT THE PROJECT -->
 <h2 tabindex="-1" dir="auto"><a id="user-content--about-the-project" class="anchor" aria-hidden="true" tabindex="-1" href="#about-the-project">🔭 About The Project 🔭</h2>
 
-Plataforma completa para gestão de vendas. 
+Plataforma de gestão de vendas. 
 
 Desenvolvido utilizando boas praticas de desenvolvimento front-end com Javascript puro.
 
