@@ -16,6 +16,8 @@ Inclui a API com as funcionalidades de cadastro de venda, cadastro de vendedor, 
 [![Php][Php.net]][Php-url]
 [![Javascript][Javascript.com]][Javascript-url]
 [![Mysql][Mysql.com]][Mysql-url]
+[![Html][Html.org]][Html-url]
+[![Css][Css.org]][Css-url]
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
@@ -27,3 +29,9 @@ Inclui a API com as funcionalidades de cadastro de venda, cadastro de vendedor, 
 
 [Mysql.com]: https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white
 [Mysql-url]: https://www.mysql.com/
+
+[Html.org]: https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
+[Html-url]: https://developer.mozilla.org/pt-BR/docs/Web/HTML
+
+[Css.org]: https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
+[Css-url]: https://developer.mozilla.org/pt-BR/docs/Web/CSS
